@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structtsm_1_1State.html" title="tsm::State" alt="" coords="5,46,96,73"/>
+<area shape="rect" id="node2" href="$structtsm_1_1IHsmDef.html" title="tsm::IHsmDef" alt="" coords="144,46,255,73"/>
+<area shape="rect" id="node3" href="$structtsm_1_1OrthogonalStateMachine.html" title="tsm::OrthogonalStateMachine\l\&lt; HSMDef1, HSMDef2 \&gt;" alt="" coords="303,5,517,47"/>
+<area shape="rect" id="node4" href="$structtsm_1_1StateMachineDef.html" title="tsm::StateMachineDef\l\&lt; HSMDef \&gt;" alt="" coords="327,71,493,112"/>
+</map>

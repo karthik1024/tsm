@@ -1,0 +1,5 @@
+<map id="tsm::State" name="tsm::State">
+<area shape="rect" id="node2" href="$structtsm_1_1IHsmDef.html" title="{tsm::IHsmDef\n|# parent_\l# currentState_\l|+ IHsmDef()\l+ IHsmDef()\l+ ~IHsmDef()\l+ getStartState()\l+ getStopState()\l+ getCurrentState()\l+ getParent()\l+ setParent()\l}" alt="" coords="145,277,296,472"/>
+<area shape="rect" id="node3" href="$structtsm_1_1OrthogonalStateMachine.html" title="{tsm::OrthogonalStateMachine\l\&lt; HSMDef1, HSMDef2 \&gt;\n|+ hsm1_\l+ hsm2_\l|+ OrthogonalStateMachine()\l+ startSM()\l+ onEntry()\l+ stopSM()\l+ onExit()\l+ execute()\l+ dispatch()\l+ getStartState()\l+ getStopState()\l+ getHsm1()\l+ getHsm2()\l}" alt="" coords="5,520,220,773"/>
+<area shape="rect" id="node4" href="$structtsm_1_1StateMachineDef.html" title="{tsm::StateMachineDef\l\&lt; HSMDef \&gt;\n|# table_\l# eventSet_\l|+ StateMachineDef()\l+ StateMachineDef()\l+ ~StateMachineDef()\l+ add()\l+ next()\l+ onEntry()\l+ onExit()\l+ getTable()\l+ getEvents()\l}" alt="" coords="245,535,413,759"/>
+</map>
